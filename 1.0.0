@@ -1,0 +1,2 @@
+Requirement already satisfied: pywavelets in c:\users\athar\desktop\ml\ml course\youtube - codebasics\projects\celebrity image recognition\model\myenv\lib\site-packages (1.8.0)
+Requirement already satisfied: numpy<3,>=1.23 in c:\users\athar\desktop\ml\ml course\youtube - codebasics\projects\celebrity image recognition\model\myenv\lib\site-packages (from pywavelets) (2.2.2)
